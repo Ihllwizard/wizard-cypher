@@ -1,0 +1,11 @@
+C:\Users\KNOWN\Documents\immersion\EmailSender\bin\MCD\Debug\netcoreapp2.2\EmailSender.deps.json
+C:\Users\KNOWN\Documents\immersion\EmailSender\bin\MCD\Debug\netcoreapp2.2\EmailSender.runtimeconfig.json
+C:\Users\KNOWN\Documents\immersion\EmailSender\bin\MCD\Debug\netcoreapp2.2\EmailSender.runtimeconfig.dev.json
+C:\Users\KNOWN\Documents\immersion\EmailSender\bin\MCD\Debug\netcoreapp2.2\EmailSender.dll
+C:\Users\KNOWN\Documents\immersion\EmailSender\bin\MCD\Debug\netcoreapp2.2\EmailSender.pdb
+C:\Users\KNOWN\Documents\immersion\EmailSender\obj\MCD\Debug\netcoreapp2.2\EmailSender.csprojAssemblyReference.cache
+C:\Users\KNOWN\Documents\immersion\EmailSender\obj\MCD\Debug\netcoreapp2.2\EmailSender.csproj.CoreCompileInputs.cache
+C:\Users\KNOWN\Documents\immersion\EmailSender\obj\MCD\Debug\netcoreapp2.2\EmailSender.AssemblyInfoInputs.cache
+C:\Users\KNOWN\Documents\immersion\EmailSender\obj\MCD\Debug\netcoreapp2.2\EmailSender.AssemblyInfo.cs
+C:\Users\KNOWN\Documents\immersion\EmailSender\obj\MCD\Debug\netcoreapp2.2\EmailSender.dll
+C:\Users\KNOWN\Documents\immersion\EmailSender\obj\MCD\Debug\netcoreapp2.2\EmailSender.pdb
